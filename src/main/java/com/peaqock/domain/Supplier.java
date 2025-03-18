@@ -1,6 +1,7 @@
 package com.peaqock.domain;
 
-import com.peaqock.domain.Abstract.AbstractEntity;
+import com.peaqock.domain.common.AbstractEntity;
+import com.peaqock.constant.CollectionName;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

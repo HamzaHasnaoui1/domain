@@ -1,4 +1,4 @@
-package com.peaqock.domain.Abstract;
+package com.peaqock.domain.common;
 
 import lombok.*;
 import lombok.experimental.SuperBuilder;

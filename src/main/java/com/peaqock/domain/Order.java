@@ -1,7 +1,8 @@
 package com.peaqock.domain;
 
-import com.peaqock.domain.Abstract.AbstractEntity;
+import com.peaqock.domain.common.AbstractEntity;
 
+import com.peaqock.constant.CollectionName;
 import com.peaqock.domain.model.OrderLine;
 import lombok.*;
 import lombok.experimental.SuperBuilder;
